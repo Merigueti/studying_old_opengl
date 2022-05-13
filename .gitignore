@@ -1,0 +1,9 @@
+**/imgui
+**/imgui-master
+**/stb_image.o
+**/stb_image.cpp
+**/stb_image.h
+**/stb_image.hpp
+**/mygame
+*.o
+*.ini
